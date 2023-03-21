@@ -141,7 +141,7 @@ async function main() {
           ) {
             cardText06.className = "card-text";
             cardText06.innerText =
-              "Nome do Produtor: " + data.propriedades[pr].nomePropriedade;
+              "Nome da Propriedade: " + data.propriedades[pr].nomePropriedade;
 
             cardText07.className = "card-text";
             cardText07.innerText =
